@@ -18,7 +18,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Heretic Shadow of the Serpent Ride
 
 6. In the GZDoom Welcome menu select Doom 2:Hell on Earth
 
-7. For Video Settings Select OpenGL
+7. For Video Settings Select OpenGL or Vulkan
 
 8. Select Don't Ask Me Again checkbox in order for the menu not to show up every time you launch the game
 
